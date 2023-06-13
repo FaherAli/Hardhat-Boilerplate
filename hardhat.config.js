@@ -1,7 +1,8 @@
 require("@nomicfoundation/hardhat-toolbox");
 require('@openzeppelin/hardhat-upgrades');
 
-const key = "7604a4b90c9893f153a917924625bd575d75bc9260a39cfb66cf2f3c0e5cf88e"
+// add your private key below
+const key = ""
 
 // /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
